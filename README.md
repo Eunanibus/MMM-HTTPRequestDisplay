@@ -4,8 +4,8 @@ This an extension for the [MagicMirror](https://github.com/MichMich/MagicMirror)
 This is version 1.0 and therefore not at a stage for widespread use.
 
 ## Installation
-1. Navigate into your MagicMirror's `modules` folder and execute `git clone https://github.com/Eunanibus/MMM-HTTPRequestDisplay`. A new folder will appear navigate into it.
-2. Execute `npm install` to install the node dependencies.
+1. Navigate into your MagicMirror's `modules` folder and execute `git clone https://github.com/Eunanibus/MMM-HTTPRequestDisplay`. A new folder will appear.
+2. Add it to the modules array in the `config/config.js` (see next step below)
 
 ## Using the module
 
