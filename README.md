@@ -38,7 +38,7 @@ The following properties can be configured:
 	<thead>
 	<tbody>
 		<tr>
-			<td><code>accessToken</code></td>
+			<td><code>httpRequestURL</code></td>
 			<td>Your target URL for the HTTP Request.<br>
 				<br><b>i.e :</b> <code>"http://api.openweathermap.org/data/2.5/weather?q=London,uk&mode=xml"</code>
 				<br><b>Possible values:</b> <code>string</code>
