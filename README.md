@@ -14,7 +14,7 @@ To use this module, add it to the modules array in the `config/config.js` file:
 modules: [
 	{
 		module: 'MMM-HTTPRequestDisplay',
-		position: 'bottom_bar',	// This can be any of the regions. Best results in left or right regions.
+		position: 'bottom_bar',	// This can be any of the regions. Best results in bottom_bar or top_bar (if clear of calender and weather modules) regions.
 		header: 'MMM-HTTPRequestDisplay', // This is optional
 		config: {
 			// See 'Configuration options' for more information.
