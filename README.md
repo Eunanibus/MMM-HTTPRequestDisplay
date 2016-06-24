@@ -56,7 +56,7 @@ The following properties can be configured:
 </table>
 
 ## Dependencies
-- [request](https://www.npmjs.com/package/request) (installed via `npm install`)
+- none
 
 The MIT License (MIT)
 =====================
